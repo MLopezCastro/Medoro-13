@@ -1,0 +1,3 @@
+# Ignorar archivos de Power BI grandes
+PBI/
+*.pbix
